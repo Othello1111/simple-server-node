@@ -1,4 +1,4 @@
-## A Simple Server with Node.js Express
+## A Simple Server with Node.js Express.
 
 This is a simple skeleton Express server project that works on any of the [resin.io][resin-link] supported devices.
 
